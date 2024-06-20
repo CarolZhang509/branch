@@ -70,6 +70,11 @@ python manage.py createsuperuser
 ```
 
 按照提示输入所有的信息就可以
+<<<<<<< HEAD
 # B33333333
 hello bye
 lllllllllllllllllllllllll
+=======
+
+# B22222
+>>>>>>> C4
